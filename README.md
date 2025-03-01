@@ -5,8 +5,7 @@
   ### Contact
   <div align='center'>
   
-  ![](https://img.shields.io/badge/mango%230741-5865F2?style=flat-square&logo=discord&logoColor=white)
-  <a href="mailto:me@hyeonjin.kr"><img src = "https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:me@hyeonjin.kr">me@hyeonjin.kr</a>
     
   </div>
   
